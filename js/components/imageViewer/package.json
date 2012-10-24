@@ -1,0 +1,13 @@
+{
+	"name": "Image Viewer",
+	"description": "A sample component that shows a few images",
+	"main": "main",
+	"directories": {
+		"css": "style",
+		"html": "templates"
+	},
+	"scripts": {
+		"css": ["style.css"],
+		"html": ["container.html", "list.html"]
+	}
+}
